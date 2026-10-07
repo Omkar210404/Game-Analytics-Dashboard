@@ -18,7 +18,7 @@ This project analyses a gaming dataset (`gaming_dataset_rich.csv`) and presents 
 Edit this list to match the pages and charts you actually built.
 
 ## Dashboard Preview
-![Overview](Screenshot 2026-10-07 162058.png)
+![Overview](Screenshot%202026-10-07%20162058.png)
 
 ## Key Insights
 1. [One real finding from your data]
